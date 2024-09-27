@@ -13,3 +13,8 @@ where salary=5000
   1. file
   2. color
   3. datr
+ 
+  4. 
+|Heading one|Heading two|Heading 3|
+|-----------|-----------|---------|
+|Table 1    |Table 2    |Table 3  |
