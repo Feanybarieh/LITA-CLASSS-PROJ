@@ -3,7 +3,12 @@
 ### Project Title: Data analysis on Excel and SQL
 ### Project Overview
 
-The below analysis aims to show my personal work from the training held by an organization called Incubator Hub. The program therefore was named LITA(Ladies in tech Africa)
+The below analysis aims to show my work from the training held by an organization called Incubator Hub. The program therefore was named LITA(Ladies in Tec Africa).
+Many try and errors were present in my works during the training and would therefore be portrayed here.
+
+### Tools Used
+
+
 ```sql
 select * from employee tbl
 where salary=5000
