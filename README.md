@@ -1,6 +1,9 @@
-# LITA-CLASSS-PROJ
+# LITA-CLASS-PROJECT
 
-###Project Title: E-commerce
+### Project Title: Data analysis on Excel and SQL
+### Project Overview
+
+The below analysis aims to show my personal work from the training held by an organization called Incubator Hub. The program therefore was named LITA(Ladies in tech Africa)
 ```sql
 select * from employee tbl
 where salary=5000
