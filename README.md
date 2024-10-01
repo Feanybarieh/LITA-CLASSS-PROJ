@@ -7,7 +7,11 @@ The below analysis aims to show my work from the training held by an organizatio
 Many try and errors were present in my works during the training and would therefore be portrayed here.
 
 ### Tools Used
+- Microsoft Excel for Data cleaning, Analysis and visualization.
+  
+- SQL Server - Structured Query Language for Quring of Data.
 
+- Github for portfolio building.
 
 ```sql
 select * from employee tbl
