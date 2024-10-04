@@ -13,7 +13,7 @@ Many try and errors were present in my works during the training and would there
 
 - Github for portfolio building.
  
-### Data Analysis
+### Data Analysis on Excel.
 In the inception of the data analysis class held by Mr Mushin, he took us through;
  - How to load data into a dataset.
  - How to clean data especially the names using proper, upper lower functions in Excel.
@@ -30,4 +30,19 @@ Below are some of the questions treated;
   
   However, a pictorial representation will be present below.
 
+
+  ### Data Analysis on SQL
+  With the basic Excel knowledge acquired already, we moved on to analysising data on SQL.
+
+  
+  Without prior knowledge on SQL, I learnt the following things;
+  - How to create a database and store data in it.
+  - Creating a table.
+  - Inserting Values into a table.
+  - Rectifying a column name and adding more records to an existing table.
+  - Query optimization( Here a letter can be substituted for a table)
+ 
+    Below is an example code
+ 
+    ```
 
