@@ -12,21 +12,10 @@ Many try and errors were present in my works during the training and would there
 - SQL Server - Structured Query Language for Quring of Data.
 
 - Github for portfolio building.
-
-```sql
-select * from employee tbl
-where salary=5000
-```
-###microsoft[Download here](https://wwww.microsoft.com)
-
-- Top producers
-- least customers
-
-  1. file
-  2. color
-  3. datr
  
-  4. 
-|Heading one|Heading two|Heading 3|
-|-----------|-----------|---------|
-|Table 1    |Table 2    |Table 3  |
+### Data Analysis
+In the inception of the data analysis class held by Mr Mushin, he took us through;
+ - How to load data into a dataset.
+ - How to clean data especially the names using proper, upper lower function on Excel.
+ - Handling missing values and duplicate data.
+ - The function used to import data from a table to another table using Vlookup.
