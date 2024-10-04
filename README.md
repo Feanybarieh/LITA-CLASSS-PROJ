@@ -16,6 +16,18 @@ Many try and errors were present in my works during the training and would there
 ### Data Analysis
 In the inception of the data analysis class held by Mr Mushin, he took us through;
  - How to load data into a dataset.
- - How to clean data especially the names using proper, upper lower function on Excel.
+ - How to clean data especially the names using proper, upper lower functions in Excel.
  - Handling missing values and duplicate data.
  - The function used to import data from a table to another table using Vlookup.
+
+### Explored Data Analysis
+While there was a dummy dataset used for practice, we could answer some questions with the aid of a pivot table.
+
+Below are some of the questions treated;
+- Checked out the five top products in a market.
+- The total and average sales in a particular market.
+- What sales are at its peak.
+  
+  However, a pictorial representation will be present below.
+
+
